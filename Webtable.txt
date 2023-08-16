@@ -1,0 +1,13 @@
+Wait
+====
+1.Static Wait--->It will be Wait for given Seconds 100000
+2.Dynamic Wait
+
+1.implicity Wait
+2.Explicity 
+3.Fluent
+
+(//table)[1]-->getAllDataFromaTable
+(//table/tbody)-->GetAll BodyDate
+(//table/tbody/tr[7])-->getParticularRowData
+(//table/tbody/tr[7]//td)[7]-->getParticularRowandCellData
